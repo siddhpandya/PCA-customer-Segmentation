@@ -5,7 +5,7 @@ Classify the customer according to types of wine
 * [Pandas](https://www.w3schools.com/python/pandas/default.asp)
 * [sklearn](https://scikit-learn.org/)
 * [matplotlib](https://matplotlib.org/)
-## Flow
+## Explaination
 * Through pandas we load CSV file and form a dataframe
 * Identify Target and features
 * Split the data in training and testing dataset
